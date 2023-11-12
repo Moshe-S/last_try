@@ -1,0 +1,11 @@
+{
+    "name": "first-site",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "start": "Hello Another World.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license":"ISC"
+  }
